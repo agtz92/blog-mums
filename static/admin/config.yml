@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: agtz92/shitposters
+  repo: agtz92/blog-mums
   branch: main
 
 media_folder: static/assets
